@@ -1,4 +1,4 @@
-# 「AIによる画像生成を学ぼう! 【VAE、GAN】
+# AIによる画像生成を学ぼう！【VAE / GAN】 -Google ColabとPyTorchで基礎から学ぶ生成モデル-
 YouTubeのライブ講義、Udemyコース、大学の講義などで使用する教材です。  
 
 * YouTubeチャンネル:  https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
